@@ -1,10 +1,13 @@
-# csc648-fa18-Team15
+# Gator Goods
 
-## Please do the following steps before completing Milestone 0.
-1. Change the name of the repo from csc648-fa18-TeamNN. All that needs to chanage is the NN to your respective team number. Team numbers whos value is less than 10, please pad with a 0. Ex team 1 is Team01 team 11 is Team11. Please make sure to also remove the username from the repo as well.
+## Application built during CSC648
 
-1. PLEASE REMOVE THE USERNAME FROM THE REPO!!!
+### What is this project?
+This website was built as a part of CSC648 (Software Engineering) at SFSU, which attempted to simulate a real-world software company. In the class, we were divided into groups of around 6 and worked on a semester long project. The semester that I took the course, every team built a buy/sell website specifically tailored to SFSU students (think like craigslist). The team I participated in was a bit special, as half of our team was in San Francisco, and the other half was in Fulda, Germany. I served as our team's frontend lead developer.
 
-2. Add ALL members of your team to this repo. For it to count, they must ACCEPT the invite.
+### Goals for the project
+This project was mainly to serve as a learning experience. Not many of us had previous web development experience, and aside from techinical experience, none of us had practiced building a piece of software using User centered design and Agile mentality. 
 
 
+### Results
+Overall, the project didn't turn out quite as well as we all hoped, but we all learned a ton about working not only as a team in general, but as an international team. We faced quite a few roadblocks throughout the semester, but if I were to do this project again, the one thing I would change would be better communication. "Better communication" is fairly broad, so let me narrow that down to doing daily scrum meetings (virtually). There was a point during the semester where our team in San Francisco thought we were waiting on the team in Fulda to implement something, and they thought the same of us. This could have been avoided if we had been more open about our progress, what we were working on next, and what we were struggling with. 
