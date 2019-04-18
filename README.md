@@ -3,7 +3,7 @@
 ## Application built during CSC648
 
 ### What is this project?
-This website was built as a part of CSC648 (Software Engineering) at SFSU, which attempted to simulate a real-world software company. In the class, we were divided into groups of around 6 and worked on a semester long project. The semester that I took the course, every team built a buy/sell website specifically tailored to SFSU students (think like craigslist). The team I participated in was a bit special, as half of our team was in San Francisco, and the other half was in Fulda, Germany. I served as our team's frontend lead developer.
+This website was built as a part of CSC648 (Software Engineering) at SFSU, which attempted to simulate a real-world software company. In the class, we were divided into groups of around 6 and worked on a semester long project. The semester that I took the course, every team built a buy/sell website specifically tailored to SFSU students (think like craigslist). The team I participated in was a bit special, as half of our team was in San Francisco, and the other half was in Fulda, Germany. I served as our team's backend lead developer.
 
 ### Goals for the project
 This project was mainly to serve as a learning experience. Not many of us had previous web development experience, and aside from techinical experience, none of us had practiced building a piece of software using User centered design and Agile mentality. 
