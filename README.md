@@ -1,4 +1,5 @@
-# Gator Goods
+# GatorGoods
+<img width="973" alt="gatorgoodshomepage" src="https://user-images.githubusercontent.com/31449701/56378430-e7f9c900-61c1-11e9-84da-57e675604d52.png">
 
 ## Application built during CSC648
 
